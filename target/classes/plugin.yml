@@ -1,0 +1,6 @@
+name: AureliumMobEXP
+version: '1.00-PRIVATE'
+main: org.et3rnalvoid.aureliummobexp.AureliumMobEXP
+api-version: '1.20'
+authors: [Eternal Void]
+website: https://github.com/et3rnalvoid
